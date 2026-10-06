@@ -1,0 +1,4 @@
+--- 2º DAM (Repetidor) ---
+DI: 4.0
+PMDM: 7.5
+AD: 5.0
